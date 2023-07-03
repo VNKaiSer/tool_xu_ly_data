@@ -1,4 +1,4 @@
 # tool_xu_ly_data
-# Thêm file data cần xử lý vào 
-# Đặt tên là data.xlsx
-chạy file main.py
+1. Thêm file data cần xử lý vào 
+2. Đặt tên là data.xlsx
+3. Chạy file main.py
